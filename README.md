@@ -6,7 +6,7 @@ A Simple Illustration of the Most Probable Point, and an example use case to cal
 
 Source files to knit the R-markdown is in the [`RMD`](RMD/) folder. The knitted html is [here](http://htmlpreview.github.io/?https://github.com/hpandana/most-probable-point/blob/main/RMD/mpp.html).
 
-The following is a trimmed-down version of the RMD for display purpuse in github. Please see [this](http://htmlpreview.github.io/?https://github.com/hpandana/most-probable-point/blob/main/RMD/mpp.html)  for the complete version.
+The following is a trimmed-down version of the RMD for proper display in github. Please see [this](http://htmlpreview.github.io/?https://github.com/hpandana/most-probable-point/blob/main/RMD/mpp.html)  for the complete version.
 
 Despite criticisms and called by different names, Most Probable Point
 (MPP) is a fascinating concept, arisen from the field of structural
